@@ -3,4 +3,4 @@ The project aims to display a correlation between temperature, humidity, rain, w
 Following were used -
 Python Libraries - Pandas and Numpy to clean data.
 Machine Learning techniques - Decision Trees and Artificial Neural Networks to train the model.
-Matplotlib to visualize results.
+Matplotlib to visualize the results.
